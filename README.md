@@ -1,4 +1,4 @@
-# NATS
+# NATS [https://secure.travis-ci.org/pmenglund/nats.png?branch=master](http://travis-ci.org/pmenglund/nats)
 
 A lightweight EventMachine based publish-subscribe messaging system.
 
